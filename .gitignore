@@ -1,0 +1,10 @@
+*.log
+*.aux
+*.tex
+*.synctex.gz
+*.exe
+*.o
+*.txt
+*.djvu
+*.doc
+*.docx
